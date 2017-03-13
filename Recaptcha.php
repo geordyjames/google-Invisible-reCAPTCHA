@@ -6,7 +6,7 @@
 * Author: Geordy James 
 *         @geordyjames
 *          
-* Location: https://github.com/geordyjames/google-reCAPTCHA-Version-2-PHP-Library
+* Location: https://github.com/geordyjames/google-Invisible-reCAPTCHA
           
 * Created:  13.03.2017
 
