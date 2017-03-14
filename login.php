@@ -6,7 +6,7 @@ $config = require('config.php');
     <title>reCAPTCHA demo</title>
     <script src='https://www.google.com/recaptcha/api.js'></script>
 	 <script>
-       function onSubmit(token) {
+       function onSubmit() {
          document.getElementById("demo-form").submit();
        }
      </script>
